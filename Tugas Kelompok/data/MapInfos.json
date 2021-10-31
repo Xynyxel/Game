@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Hutan","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":640},
-{"id":2,"expanded":false,"name":"DesaPinggirKerajaan","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":650.6666666666666},
-{"id":3,"expanded":false,"name":"PintuGerbang","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":698.6666666666666},
-{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":597.3333333333334}
+{"id":1,"expanded":false,"name":"Hutan","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":637.3333333333334},
+{"id":2,"expanded":false,"name":"DesaPinggirKerajaan","order":2,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":3,"expanded":false,"name":"PintuGerbang","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":658.6666666666666},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":637.3333333333334},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334}
 ]
