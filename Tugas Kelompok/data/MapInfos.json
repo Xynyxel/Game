@@ -1,11 +1,11 @@
 [
 {"id":0,"expanded":false,"name":"Hutan","order":2,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
-{"id":1,"expanded":false,"name":"Hutan","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":946.6666666666666},
-{"id":2,"expanded":false,"name":"Desa Besok","order":3,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
-{"id":3,"expanded":false,"name":"Pintu Gerbang","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":658.6666666666666},
-{"id":4,"expanded":true,"name":"Halaman Kerajaan","order":5,"parentId":0,"scrollX":1081.3333333333333,"scrollY":704},
-{"id":5,"expanded":false,"name":"Guild","order":6,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
-{"id":6,"expanded":false,"name":"Penginapan","order":7,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
-{"id":7,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
-{"id":8,"expanded":false,"name":"PadangRumput","order":8,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334}
+{"id":1,"expanded":false,"name":"Hutan","order":2,"parentId":0,"scrollX":965,"scrollY":946.5},
+{"id":2,"expanded":false,"name":"Desa Jerbi","order":3,"parentId":0,"scrollX":811,"scrollY":452.5},
+{"id":3,"expanded":false,"name":"Pintu Gerbang","order":4,"parentId":0,"scrollX":811,"scrollY":658.5},
+{"id":4,"expanded":true,"name":"Halaman Kerajaan","order":5,"parentId":0,"scrollX":965,"scrollY":704.5},
+{"id":5,"expanded":false,"name":"Guild","order":6,"parentId":0,"scrollX":819,"scrollY":452.5},
+{"id":6,"expanded":false,"name":"Penginapan","order":7,"parentId":0,"scrollX":819,"scrollY":452.5},
+{"id":7,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":819,"scrollY":452.5},
+{"id":8,"expanded":false,"name":"PadangRumput","order":8,"parentId":0,"scrollX":819,"scrollY":452.5}
 ]
